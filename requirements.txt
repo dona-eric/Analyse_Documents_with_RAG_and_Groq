@@ -1,0 +1,9 @@
+groq
+gradio
+pdfplumber
+python-docx
+sentence-transformers
+langchain-groq
+faiss_cpu
+tqdm
+numpy
